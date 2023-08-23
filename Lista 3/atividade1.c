@@ -1,5 +1,10 @@
-#include <stdio.h>
-#include <math.h>
+#include <stdio.h>  
+#include <stdlib.h>  
+#include <math.h>  
+/*Questão 1
+Faça um programa em C, que solicite ao usuário informar dois números inteiros e a operação que ele deseja executar (Operações: soma, subtração,
+divisão, multiplicação). Execute a operação desejada e apresente o resultado na tela. Se a operação informada for inválida, mostrar uma mensagem de erro.
+*/
 
 int main(){
     
