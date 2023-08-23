@@ -8,7 +8,7 @@ Se o número de lados for diferente de 3, 4 ou 6 o programa deve informar: “n�
 Áreas:
 a. Triângulo: A = L*L*1.73/4
 b. Quadrado: A = L*L
-c. Hexágono: A = 6*L*L*1.73/4;*/
+c. Hexágono: A = 6*L*L*1.73/4;*/ 
 
 int main(){
     
