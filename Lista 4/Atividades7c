@@ -1,0 +1,19 @@
+/*Fazer um programa em C para mostrar todos os números perfeitos entre 1 e 1000.
+Número perfeito é todo número inteiro cuja soma dos seus divisores é igual ao dobro do
+próprio número.*/
+int main()
+{
+    int i, n, soma = 0, divisor, l;
+    scanf("%d", &n);
+    for (l = 1; l < n; l++)
+    {
+        if (n % l == 0)
+        {
+            soma += l;
+        }
+    }
+    if (soma == n)
+    {
+        printf(" %d é perfeito \n", n);
+    }
+}
