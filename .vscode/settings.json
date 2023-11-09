@@ -5,6 +5,7 @@
         "stdlib.h": "c",
         "Atividade1.C": "cpp",
         "atividades7c": "c",
-        "stdio.h": "c"
+        "stdio.h": "c",
+        "Atividades.C": "cpp"
     }
 }
