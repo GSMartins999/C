@@ -51,14 +51,6 @@
     }
 }
 
-
-
-
-
-
-
-
-
 //Questão 2 -
 #include <stdio.h>
 #include <stdlib.h>
@@ -89,16 +81,6 @@
     printf("soma da diagonal principal: %d\n", DP);
     printf("soma da diagonal secundaria: %d", DS);
 }
-
-
-
-
-
-
-
-
-
-
 
 //Questão 3 -
 #include <stdio.h>
@@ -164,15 +146,6 @@
     }
 }
 
-
-
-
-
-
-
-
-
-
 //Questão 4 -
 #include <stdio.h>
 #include <stdlib.h>
@@ -207,13 +180,6 @@
     media = (float)somaPar / pares;
     printf("\nMedia dos valores pares contidos na matriz: %.2f\n", media);
 }
-
-
-
-
-
-
-
 
 //Questão 5 -
 #include <stdio.h>
@@ -266,15 +232,6 @@
     }
 }
 
-
-
-
-
-
-
-
-
-
 //Questão 6
 #include <stdlib.h>
 #include <stdbool.h>
@@ -320,12 +277,6 @@
         printf("\n\n");
     }
 }
-
-
-
-
-
-
 
 //Questão 7
 #include <stdlib.h>
